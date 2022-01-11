@@ -1,0 +1,12 @@
+{
+   "services": {
+        "nginxservice": {
+            "name": "nginx Service",
+            "root_dir": "/",
+            "build": [],
+            "command": "",
+            "arguments" : [],
+            "port": "80"
+        }
+    }
+}
